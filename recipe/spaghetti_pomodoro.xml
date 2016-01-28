@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+  <information>
+    <title>Spaghetti al pomodoro</title>
+    <author>Carlo Minucci</author>
+    <date>28-01-2016 09:06:23</date>
+    <link></link>
+    <time>15</time>
+    <difficulty>low</difficulty>
+    <servings>1</servings>
+    <language>it</language>
+  </information>
+  <ingredients>
+  	<item>
+    	<name>spaghetti</name>
+    	<quantity>100 grammi</quantity>
+    </item>
+    <item>
+    	<name>sale</name>
+    	<quantity>q.b.</quantity>
+    </item>
+    <item>
+    	<name>pomodoro</name>
+    	<quantity>50 grammi</quantity>
+    </item>
+    <item>
+    	<name>olio extravergine di oliva</name>
+    	<quantity>50 grammi</quantity>
+    </item>
+  </ingredients>
+  <preparation>
+	Cuoci gli spaghetti, in una padella scalda il pomodoro con l'olio.
+  </preparation>
+</recipe>
