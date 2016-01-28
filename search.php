@@ -17,14 +17,18 @@ foreach($files as $file){
 	$title = $xml->xpath('/recipe/information/title');
 	//echo "<b>" . $title[0] . "</b>";
 	$result = $xml->xpath('/recipe/ingredients/item/name');
+	$n=count($result);
+	$i=0;
 	while(list( , $node) = each($result)) {
 		foreach($recipes as $r){
 			//echo strcasecmp(chop($r), $node) . "<br />";
 			if(strcasecmp(chop($r), $node) == 0){
-				echo "<b>" . $title[0] . "</b>" . $node . "<br />";
+				//echo $node . "<br />";
+				$i++;
 			}
 		}
 	}
+	if($i == $n){ echo $title[0]; }
 }
 
 
