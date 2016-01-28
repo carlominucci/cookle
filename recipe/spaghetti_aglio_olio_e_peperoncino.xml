@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe>
+  <information>
+    <title>Spaghetti aglio olio e peperoncino</title>
+    <author>Carlo Minucci</author>
+    <date>28-01-2016 09:06:23</date>
+    <link>http://ricette.giallozafferano.it/Spaghetti-aglio-olio-e-peperoncino.html</link>
+    <time>15</time>
+    <difficulty>low</difficulty>
+    <servings>4</servings>
+    <language>it</language>
+  </information>
+  <ingredients>
+  	<item>
+    	<name>spaghetti n° 5</name>
+    	<quantity>400 grammi</quantity>
+    </item>
+    <item>
+    	<name>aglio</name>
+    	<quantity>10 grammi</quantity>
+    </item>
+    <item>
+    	<name>sale</name>
+    	<quantity>q.b.</quantity>
+    </item>
+    <item>
+    	<name>peperoncino</name>
+    	<quantity>10 grammi</quantity>
+    </item>
+    <item>
+    	<name>prezzemolo</name>
+    	<quantity>5 grammi</quantity>
+    </item>
+    <item>
+    	<name>olio extravergine di oliva</name>
+    	<quantity>50 grammi</quantity>
+    </item>
+  </ingredients>
+  <preparation>
+    Per preparare gli spaghetti aglio, olio e peperoncino, tuffateli in abbondante acqua salata a piacere per cuocerli al dente. Durante la cottura della pasta, dedicatevi al condimento: incidete il peperoncino fresco nel senso della lunghezza e rimuovetene i semi, amari e troppo piccanti.
+    Tagliate quindi il peperoncino a striscioline finissime. Sminuzzate il prezzemolo, fino a ridurlo ad un trito fine. Scaldate l’olio in una larga padella antiaderente.
+    E soffriggetevi dolcemente lo spicchio d’aglio sbucciato e il peperoncino. Dopo qualche minuto, rimuovete l’aglio, e aggiungete un mestolo di acqua di cottura della pasta.
+    Scolate gli spaghetti al dente, e buttateli in padella. Insaporite con il prezzemolo tritato e saltate per un paio di minuti, fino al raggiungimento del grado di cottura desiderato, aggiungendo un altro po’ di acqua di cottura se necessario. Gustate i vostri spaghetti aglio olio e peperoncino ben caldi!
+  </preparation>
+</recipe>
